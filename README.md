@@ -6,6 +6,8 @@
 2. Передавать данные о взаимодействии с растениями в Телеграмм Бота.
 3. Вовремя включать освещение, в зависимости от расписания.
 (Остальные функции можно посмотреть в файлах с кодом).
+Используемые материалы:
+ArduinoMega, датчик климата, датчик жидкости, сирена, реле, датчик света, ESP, LCD-дисплей, часы реального времени, макетная плата, провода (разных видов).
 ### In English:
 This repository contains scripts and a file from the event "Polytech#Do with us". I held the position of a microelectronics Programmer. My goal was to develop an Arduino-based system and program it. The main goal of the competition was to create an autonomous greenhouse.
 Whose goals:
