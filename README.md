@@ -16,3 +16,6 @@ Whose goals:
 2. Send data about interaction with plants to the Telegram Bot.
 3. Turn on the lights on time, depending on the schedule.
 (The rest of the functions can be viewed in the code files).
+
+Materials used:
+Arduino Mega, climate sensor, liquid sensor, siren, relay, light sensor, ESP, LCD display, real-time clock, breadboard, wires (different types).
