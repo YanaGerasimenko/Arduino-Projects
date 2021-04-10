@@ -18,4 +18,4 @@ Whose goals:
 (The rest of the functions can be viewed in the code files).
 
 Materials used:
-Arduino Mega, climate sensor, liquid sensor, siren, relay, light sensor, ESP, LCD display, real-time clock, breadboard, wires (different types).
+Arduino Mega, climate sensor, liquid sensor, siren, relay, light sensor, ESP, LCD display, real-time clock, breadboard, wires (different types). 
