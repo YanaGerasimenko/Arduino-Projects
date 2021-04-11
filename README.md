@@ -11,7 +11,7 @@
 
 (Остальные функции можно посмотреть в файлах с кодом).
 
-:white_check_mark: Все задачи выполнены 
+:white_check_mark: `Все задачи выполнены` 
 
 Используемые материалы:
 ArduinoMega, датчик климата, датчик жидкости, сирена, реле, датчик света, ESP, LCD-дисплей, часы реального времени, макетная плата, провода (разных видов).
@@ -27,7 +27,7 @@ Whose goals:
 
 (The rest of the functions can be viewed in the code files).
 
-✅ All tasks are completed
+✅ `All tasks are completed`
 
 Materials used:
 Arduino Mega, climate sensor, liquid sensor, siren, relay, light sensor, ESP, LCD display, real-time clock, breadboard, wires (different types). 
