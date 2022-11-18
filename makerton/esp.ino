@@ -2,7 +2,7 @@
 #include <CTBot.h>
 
 #define RECIEVEFROMMEGA  19 //Объявление RX пина для приёма с меги
-ёёёёёё
+
 String ssid  = "Fresh"    ; //Название WiFi
 String pass  = "OKM960wsx"; //Пароль от WiFI
 String token = "1488985666:AAEKvHlYkXuX0D5bE8uIDNVqXd0VHjFGDbg"   ; //Токен бота
